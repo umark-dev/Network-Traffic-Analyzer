@@ -1,0 +1,7 @@
+[WARNING] SSH access from 192.168.1.25 to 192.168.1.1
+[WARNING] FTP access from 192.168.1.30 to 192.168.1.1
+[WARNING] Telnet access from 10.0.0.5 to 192.168.1.1
+[WARNING] Telnet access from 10.0.0.5 to 192.168.1.1
+[WARNING] Telnet access from 10.0.0.5 to 192.168.1.1
+[WARNING] Suspicious UDP (SNMP) traffic from 172.16.0.2
+[ALERT] High traffic volume from 10.0.0.5 (3 connections)
